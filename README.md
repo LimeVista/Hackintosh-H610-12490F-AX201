@@ -13,15 +13,15 @@ OpenCore 0.8.2 for MAXSUN MS-H610-ITX + i5 12490F + RX560
 | WiFi + BT | Intel AX201 |
 
 ## 功能 （Functions）
-* [ ] 声卡（Audio） 
-* [ ] USB
-* [ ] 无线网络（Wifi）
-* [ ] 蓝牙（Intel Bluetooth）
-* [ ] 隔空投送（AirDrop）
-* [ ] RX 560
-* [ ] CPU 睿频正常（CPU Boost）
-* [ ] 有线网络（LAN）
-* [x] 随航，需要核显，通用控制
+* ✅ 声卡（Audio） 
+* ✅ USB
+* ✅ 无线网络（Wifi）
+* ✅ 蓝牙（Intel Bluetooth）
+* ✅ 隔空投送（AirDrop）
+* ✅ RX 560
+* ✅ CPU 睿频正常（CPU Boost）
+* ✅ 有线网络（LAN）
+* ❌ 随航，需要核显
 
 ## 备注（Additional）
 请自行生成三码  
