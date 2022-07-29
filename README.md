@@ -15,7 +15,7 @@ OpenCore 0.8.2 for MAXSUN MS-H610-ITX + i5 12490F + RX560
 ## 功能 （Functions）
 * ✅ 声卡（Audio） 
 * ✅ USB
-* ✅ 无线网络（Wifi）
+* ✅ 无线网络（WiFi）
 * ✅ 蓝牙（Intel Bluetooth）
 * ✅ RX 560
 * ✅ CPU 睿频正常（CPU Boost）
