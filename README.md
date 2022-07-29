@@ -17,10 +17,10 @@ OpenCore 0.8.2 for MAXSUN MS-H610-ITX + i5 12490F + RX560
 * ✅ USB
 * ✅ 无线网络（Wifi）
 * ✅ 蓝牙（Intel Bluetooth）
-* ✅ 隔空投送（AirDrop）
 * ✅ RX 560
 * ✅ CPU 睿频正常（CPU Boost）
 * ✅ 有线网络（LAN）
+* ✅ 隔空投送（单向到电脑）（AirDrop）
 * ❌ 随航，需要核显
 
 ## 备注（Additional）
