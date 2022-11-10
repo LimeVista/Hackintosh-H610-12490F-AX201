@@ -1,6 +1,6 @@
 # Hackintosh MAXSUN(铭瑄) H610-ITX i5 12490F RX560
-适用于 铭瑄 MS-H610-ITX + 12490F + RX560 的 OpenCore 0.8.2 黑苹果引导文件，机型 MacPro7,1  
-OpenCore 0.8.2 for MAXSUN MS-H610-ITX + i5 12490F + RX560  
+适用于 铭瑄 MS-H610-ITX + 12490F + RX560 的 OpenCore 0.8.5 黑苹果引导文件，机型 MacPro7,1  
+OpenCore 0.8.5 for MAXSUN MS-H610-ITX + i5 12490F + RX560  
 
 ## 本机配置（Hardware）
 |  配置（Hardware）   | 型号（Model）  |
