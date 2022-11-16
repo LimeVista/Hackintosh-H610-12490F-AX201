@@ -5,6 +5,9 @@ OpenCore 0.8.5 for MAXSUN MS-H610-ITX + i5 12490F + RX560
 ## 当前系统版本（Current OS Version）
 macOS Ventura
 
+## 下载（Download）
+[Releases](https://github.com/LimeVista/Hackintosh-H610-12490F-AX201/releases)
+
 ## 本机配置（Hardware）
 |  配置（Hardware）   | 型号（Model）  |
 |  ---- | ----  |
