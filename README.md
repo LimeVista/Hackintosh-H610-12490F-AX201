@@ -23,8 +23,8 @@ macOS Ventura
 * ✅ RX 560
 * ✅ CPU 睿频正常（CPU Boost）
 * ✅ 有线网络（LAN）
-* 🚧 隔空投送，不稳定（AirDrop，Unstable）
-* ❌ 随航，需要核显
+* 🚧 隔空投送，不稳定，仅USB 模式稳定（AirDrop，Unstable，USB mode stable only）
+* ❌ 随航，需要核显，USB模式可以开启，但是黑屏（SideCar，need iGPU, black screen）
 
 ## 备注（Additional）
 请自行生成三码  
