@@ -6,8 +6,8 @@ OpenCore 0.9.0 for MAXSUN MS-H610-ITX + i5 12490F + RX560
 macOS Ventura
 
 ## 下载（Download）
-[macOS Ventura](https://github.com/LimeVista/Hackintosh-H610-12490F-AX201/releases)
-[macOS Monterey](https://github.com/LimeVista/Hackintosh-H610-12490F-AX201/releases/tag/12.8.2.1)
+[macOS Ventura EFI](https://github.com/LimeVista/Hackintosh-H610-12490F-AX201/releases)  
+[macOS Monterey EFI](https://github.com/LimeVista/Hackintosh-H610-12490F-AX201/releases/tag/12.8.2.1)  
 
 ## 本机配置（Hardware）
 |  配置（Hardware）   | 型号（Model）  |
