@@ -83,5 +83,18 @@ Example 3: Setting ResizeAppleGpuBars to 16 GB will make no changes.
 
 Note: See ResizeGpuBars quirk for general GPU PCI BAR size configuration and more details about the technology.  
 
+## 依赖（Dependencies）
+* [OpenCore](https://github.com/acidanthera/OpenCorePkg)
+* [Lilu](https://github.com/acidanthera/Lilu)
+* [VirtualSMC](https://github.com/acidanthera/VirtualSMC)
+* [AppleALC](https://github.com/acidanthera/AppleALC)
+* [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
+* [BrcmPatchRAM](https://github.com/acidanthera/BrcmPatchRAM)
+* [CPUFriend](https://github.com/acidanthera/CPUFriend)
+* [LucyRTL8125Ethernet](https://github.com/Mieze/LucyRTL8125Ethernet)
+* [RadeonSensor](https://github.com/ChefKissInc/RadeonSensor)
+* [itlwm](https://github.com/OpenIntelWireless/itlwm)
+* [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
+
 ## 借鉴（Thanks）
 * [Crack-DanShiFu](https://github.com/Crack-DanShiFu/Hackintosh-MAXSUN--H610ITX-I512400-rx560)
