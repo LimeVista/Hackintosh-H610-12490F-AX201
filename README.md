@@ -83,6 +83,12 @@ Example 3: Setting ResizeAppleGpuBars to 16 GB will make no changes.
 
 Note: See ResizeGpuBars quirk for general GPU PCI BAR size configuration and more details about the technology.  
 
+## 卡 EG 问题 (EB Issue)
+
+### LEB.WL.PWLFNV
+详见 [Discussions](https://github.com/LimeVista/Hackintosh-H610-12490F-AX201/discussions/22)  
+See [Discussions](https://github.com/LimeVista/Hackintosh-H610-12490F-AX201/discussions/22)  
+
 ## 致谢（Credits）
 * [AppleALC](https://github.com/acidanthera/AppleALC)
 * [BrcmPatchRAM](https://github.com/acidanthera/BrcmPatchRAM)
