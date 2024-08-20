@@ -7,8 +7,8 @@ macOS Sonoma
 
 ## 下载（Download）
 [macOS Sonoma 14.0.x ~ 14.3.x EFI](https://github.com/LimeVista/Hackintosh-H610-12490F-AX201/releases/tag/14.100.1)  
-[macOS Ventura EFI](https://github.com/LimeVista/Hackintosh-H610-12490F-AX201/releases/tag/13.9.2.1)  
-[macOS Monterey EFI](https://github.com/LimeVista/Hackintosh-H610-12490F-AX201/releases/tag/12.8.2.1)  
+[macOS Ventura 13.1 ~ 13.5 EFI](https://github.com/LimeVista/Hackintosh-H610-12490F-AX201/releases/tag/13.9.2.1)  
+[macOS Monterey 12.x EFI](https://github.com/LimeVista/Hackintosh-H610-12490F-AX201/releases/tag/12.8.2.1)  
 
 ## 本机配置（Hardware）
 |  配置（Hardware）   | 型号（Model）  |
